@@ -1,0 +1,20 @@
+.topm {
+	margin: 20px 40px;
+}
+
+.leftm {
+	margin-left: 40px
+}
+
+.leftr {
+	margin-right: 40px
+}
+
+form label{
+  font-weight:bold;
+}
+
+.required
+{
+    color: red;
+}
